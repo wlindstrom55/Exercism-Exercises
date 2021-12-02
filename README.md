@@ -8,4 +8,4 @@ The projects you find here will for the most part come with accompanying unit te
 
 The actual exercises to modify and submit are under src/main/java.
 
-The unit tests can be found under under src/main/test.
+The unit tests can be found under under src/test/java.
