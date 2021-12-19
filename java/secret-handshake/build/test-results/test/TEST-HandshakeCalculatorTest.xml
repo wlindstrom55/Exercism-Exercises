@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HandshakeCalculatorTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2021-12-19T21:42:17" hostname="DESKTOP-ANJ57AI" time="0.145">
+  <properties/>
+  <testcase name="testReversingASingleActionYieldsTheSameAction" classname="HandshakeCalculatorTest" time="0.126"/>
+  <testcase name="testThatInput1YieldsAWink" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testReversingNoActionsYieldsNoActions" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="testThatInput10YieldsTwoActions" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testThatInput8YieldsAJump" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="testThatHandlesMoreThanFiveBinaryPlacesWithoutReversal" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testThatInput11YieldsThreeActions" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testThatInput4YieldsACloseYourEyes" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testInputThatYieldsAllActions" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="testThatInput2YieldsADoubleBlink" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testInputThatYieldsAllActionsReversed" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="testAnInputThatYieldsTwoReversedActions" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="testAnInputThatYieldsTwoActions" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testThatInput5YieldsTwoActions" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="testThatInput12YieldsTwoActions" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="testThatHandlesMoreThanFiveBinaryPlacesWithReversal" classname="HandshakeCalculatorTest" time="0.003"/>
+  <testcase name="testThatInput0YieldsNoActions" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testInputThatYieldsAllActionsFromMoreThanFiveBinaryPlaces" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="testThatInput9YieldsTwoActions" classname="HandshakeCalculatorTest" time="0.001"/>
+  <testcase name="testThatInput7YieldsThreeActions" classname="HandshakeCalculatorTest" time="0.0"/>
+  <testcase name="testThatInput6YieldsTwoActions" classname="HandshakeCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
